@@ -1,5 +1,5 @@
 my:
-  greeting: Greeting from config server. What's up
+  greeting: A new greeting from config server. Hey
   list:
     values: One, Two, Three, Four
 db:
